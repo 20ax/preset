@@ -2,6 +2,9 @@
     <div>
         开发了一个功能（第一次提交）
     </div>
+    <div>
+        开发新功能（第一次提交）
+    </div>
 </template>
 
 <script setup lang="ts">
